@@ -1,2 +1,15 @@
-# Cone_Model_for_CME
-This repository provides a python code to infer morphological parameters of Coronal Mass Ejection using Cone model given by Xie  et  al.,2004. 
+# Cone Model for CME
+A python-3 implementation of cone model (Xie et al.,2004) for Solar Coronal Mass Ejection.
+
+The file `Xie's_cone_v1.py` provides a code to get necessary CME parameters as discussed in the literature.
+
+
+
+
+
+
+
+
+
+# Note
+Currently this python program is in early stage. So if you find any bug or have some suggestions for improvement, please notify me with Github [Issues](https://github.com/astronish16/Cone_Model_for_CME/issues) or [Pull requests](https://github.com/astronish16/Cone_Model_for_CME/pulls)
