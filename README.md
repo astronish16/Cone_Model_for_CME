@@ -1,4 +1,5 @@
 # Cone Model for CME
+[![DOI](https://zenodo.org/badge/376915211.svg)](https://zenodo.org/badge/latestdoi/376915211)\
 A python-3 implementation of cone model [Xie et al.,2004](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2003JA010226#) for Solar Coronal Mass Ejection.
 
 The file `Xie's_cone_v1.py` provides a python programme to get necessary CME parameters as discussed in the model. Folder `Data` consist of the datafiles used in the programme, while folder `img` consist of the output iamges.
