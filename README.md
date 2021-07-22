@@ -9,7 +9,7 @@ The file `Xie's_cone_v1.py` provides a python programme to get necessary CME par
 3) Select particular data file to infer CME parameters at particular time-stamp. (See line number 60 to 64)
 4) Compile the code.
 5) After compilation a popup window will appear in which difference image of CME is shown. Select 30 to 35 points on CME leading edge and press Esc key. (To fit ellipse we require only 5 points; but we select as many as points to minimize variation in parameters obtained from sequential frames)
-6) Programme will return CME paramters with fitted halo on top of SOHO/LASCO image.\
+6) Programme will return CME paramters with fitted halo on top of SOHO/LASCO image.
 
 \
 A more detailed description of cone model, this python implementation and its validation is given in my [M.Sc. thesis](https://u.pcloud.link/publink/show?code=XZdCdPXZRXWkAJ8UPD53l0kKUqj06uuzjI7k).
